@@ -1,0 +1,7 @@
+.highlight_row {
+  background-color: red;
+}
+.dropdown-menu {
+  max-height: 280px;
+  overflow-y: auto;
+}
